@@ -1,0 +1,36 @@
+.app {
+  min-height: 100vh;
+  width: 100em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+body{
+  background-color: rgb(110, 155, 223);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+input {
+  padding: 8px;
+  margin: 8px 0;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 15px;
+}

@@ -1,0 +1,9 @@
+# Ignore everything
+
+
+# Allow casestudy folder
+!casestudy/
+!casestudy/**
+
+# Allow gitignore itself
+!.gitignore
