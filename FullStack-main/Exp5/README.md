@@ -32,4 +32,6 @@ Outcome
 By completing this experiment, we gain practical understanding of how lazy loading enhances frontend performance in Single Page Applications. We learn how to implement both component-level and route-based lazy loading using React.lazy and Suspense to create scalable and performance-optimized applications.
 
 ## Screenshot
+
+<img width="1070" height="766" alt="Screenshot 2026-02-18 122722" src="https://github.com/user-attachments/assets/459e5dbf-785c-4d5f-978a-4a86dfbe8621" />
 <img width="1509" height="880" alt="Screenshot 2026-02-18 114640" src="https://github.com/user-attachments/assets/a174d4ce-e529-4ecc-ba2f-d212f7119e7f" />
